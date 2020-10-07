@@ -1,0 +1,15 @@
+.DS_Store
+
+.pypirc
+.idea
+venv/
+
+*.pyc
+*.pyo
+
+__pycache__/
+.tox
+dist
+**/__pycache__/
+/*.egg_info/
+build/

@@ -1,0 +1,5 @@
+"""
+Empty urls.
+"""
+
+urlpatterns = []
